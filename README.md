@@ -1,16 +1,63 @@
 # xg-legal
 
-Public legal documents (Privacy Policy / Terms) for my apps.
+This repository contains **public legal and support documents** for my applications.
+
+All documents are:
+- Publicly accessible
+- Hosted via **GitHub Pages**
+- Served over **HTTPS**
+- Intended for use in **Google Play Console** and **Apple App Store Connect**
+
+---
 
 ## Apps
-- Life Tracker: `/apps/life-tracker/privacy-policy/
-- CardRush: /apps/cardrush/privacy-policy/`
 
-## GitHub Pages
-If you enable GitHub Pages for this repo (main branch, root), pages will be available at:
+### Life Tracker
+- Privacy Policy  
+  /apps/life-tracker/privacy-policy/
 
-https://<username>.github.io/xg-legal/apps/<app-name>/privacy-policy/
+- Terms of Service  
+  /apps/life-tracker/terms-of-service/
+
+---
+
+### CardRush
+- Privacy Policy  
+  /apps/cardrush/privacy-policy/
+
+- Support  
+  /apps/cardrush/support/
+
+---
+
+## Hosting
+
+All pages are hosted using **GitHub Pages** from the `main` branch (repository root).
+
+### Base URL format
+
+```
+https://<username>.github.io/xg-legal/
+```
+
+### Example
+
+```
+https://xinggen-guo.github.io/xg-legal/apps/cardrush/privacy-policy/
+```
+
+---
 
 ## Contact
-If you need to reach me regarding privacy:
-- Email: sishuiliunianltk@gmail.com
+
+For privacy, legal, or support-related inquiries, please contact:
+
+Email: sishuiliunianltk@gmail.com
+
+---
+
+## Notes
+
+- Each app has its **own isolated legal pages**
+- Privacy policies reflect **actual app behavior**
+- This repository is intentionally minimal and stable

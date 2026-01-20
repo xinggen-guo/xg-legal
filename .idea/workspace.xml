@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cfe960f-da0c-4110-b53f-c519f2789f6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/cardrush/privacy-policy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/cardrush/privacy-policy/privacy-policy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI_SPEC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/cardrush/support/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -50,6 +49,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -78,7 +80,7 @@
       <updated>1768824320521</updated>
       <workItem from="1768824321727" duration="666000" />
       <workItem from="1768908172602" duration="98000" />
-      <workItem from="1768908321447" duration="114000" />
+      <workItem from="1768908321447" duration="792000" />
     </task>
     <servers />
   </component>
