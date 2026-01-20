@@ -3,7 +3,8 @@
 Public legal documents (Privacy Policy / Terms) for my apps.
 
 ## Apps
-- Life Tracker: `/apps/life-tracker/privacy-policy/`
+- Life Tracker: `/apps/life-tracker/privacy-policy/
+- CardRush: /apps/cardrush/privacy-policy/`
 
 ## GitHub Pages
 If you enable GitHub Pages for this repo (main branch, root), pages will be available at:
